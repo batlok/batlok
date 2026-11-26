@@ -9,4 +9,4 @@ I use Python, R, and SQL to explore data, test hypotheses, and build predictive 
 
 Mainly work in, R, Python, SQL and Excel.
 
-Looking for a Data related intern.
+Looking for a data related intern.
