@@ -8,3 +8,5 @@ in Bordeaux, with a bachelor's degree in Econometrics from Istanbul University.
 I use Python, R, and SQL to explore data, test hypotheses, and build predictive models.
 
 Mainly work in, R, Python, SQL and Excel.
+
+Looking for a Data related intern.
